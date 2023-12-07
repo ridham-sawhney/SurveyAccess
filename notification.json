@@ -1,6 +1,6 @@
 [
   {
-   "publish":true,
+   "publish":false,
    "message":"HELLO EVERYONE !",
    "containsLink":true,
    "link":"https://www.google.com/"
